@@ -32,7 +32,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 3. How would you explain the concept of a variable to someone new to programming?
     A variable is a value taht can change depding on its conditions or the information that is pass thru the prgram its self.  
 4. What is the purpose of using functions in code?
-    Functions are the basic building block of programing.  
+    Functions are the basic building block of programing.  They are only a small part of coding.  
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
