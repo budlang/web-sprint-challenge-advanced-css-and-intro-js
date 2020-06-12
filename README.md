@@ -25,11 +25,14 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 1. How would you describe acessibility on the web to someone new to programming?
     I would tell them some of the different ways accessibility is used for people with diffent disabiltys like screen readers and what they would look like in the real world.  
 2. Talk about 3 different things you can do to ensure your website is accessible. 
-    1a. i would firts want to make sure my content is organize correctly so that scfreen readers can work the right way.  
-    2.b
-3. How would you explain the concept of a variable to someone new to programming?
-4. What is the purpose of using functions in code?
+    1a. I would firts want to make sure my content is organize correctly so that scfreen readers can work the right way.  
+    2b.  I would also wnat to make  sure that my text is proper from all images i have on my site.  
+    3c.  You want to make sure that any color you use on your site is used with care.  For those who my have trobule with seeing some colors you want to make sure your site is not to bright or to dark.  
 
+3. How would you explain the concept of a variable to someone new to programming?
+    A variable is a value taht can change depding on its conditions or the information that is pass thru the prgram its self.  
+4. What is the purpose of using functions in code?
+    Functions are the basic building block of programing.  
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
