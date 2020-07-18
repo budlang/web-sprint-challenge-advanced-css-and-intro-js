@@ -207,8 +207,8 @@
 
 (1) Name of the first artist (0th index) in the array
 (2) Bio of the third artist (2nd index) in the array */
-  console.log(arr.index 0,);
-  conslole.logbio(arr.index 2);
+  console.log(artists[0].name);
+  console.log(artists[2].bio);
 
 /* Task 2: There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is currently Vincent Van Dough. Use an array method to fix this issue and console.log() to check your work. */
 
@@ -225,10 +225,10 @@ console.log(artists[8].name);
  * it will return `The artist at index 0 is Amedeo Modigliani`.
 */
 function getArtistByIndex(array, index) {
-    /* code here */
+   
   }
   
-  /**
+
 
 
 /* Task 4: Create a function called get20s() that takes data as an argument and returns an array with names of artists who lived in the 20th century (1900-2000) */
@@ -254,7 +254,7 @@ function get20s(array){
   }
 }
 
-get20s(artists);
+console.log(get20s(artists))
 
 
 /* Task 5: Create a function called `removeArtist` that takes two arguments:
@@ -273,9 +273,6 @@ function removeArtist(array, index) {
   }
 
   removeArtist(artists,0);
-  }
-  
-  /**
 
 
 
@@ -300,6 +297,7 @@ function addArtist(array, newData){
    return newArray
   }
 
+
 /* Task 7: Create a function called lotsOfArt() that takes one argument: 
 
     (1) artists array 
@@ -308,17 +306,19 @@ and returns an array with names of artists who painted more than 100 paintings.
 
 For example lotsOfArt(artists); will return ["Amedeo Modigliani", "Rene Magritte", ..."Albrecht Dürer"]*/
 
-function lotsOfArt(array){
+function lotsOfArt(arr){
 
   let newArray =[];
-  for (i = 0; 1 < array.length; i++) {
-    if (array[i].painting > 100) {
-      newArray.push(array[i]);
+
+  for (i = 0; i < arr.length; i++){
+    if (arr[i].paintings > 100) {
+      newArray.push(arr[i].name);
     }
   }
-return newArray
+    return newArray
 }
-lotsOfArt
+
+console.log(lotsOfArt(artists))
 
 
 // 🎨🎨 STRETCH 🎨🎨//
